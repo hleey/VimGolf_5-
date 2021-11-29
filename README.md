@@ -1,6 +1,6 @@
 # VimGolf_5-
-VimGolf_5개
----
+
+
 ## 1번 (vimgolf put 5f0f5fbe280fbf000c233304)
 
 * 최고점 : 8
@@ -26,15 +26,22 @@ VimGolf_5개
   ZZ - 빠져나오기
   
 ## 2번 (vimgolf put 603ba26a01b4d00009c10a49)
-• 최고점 : 19
-• 내가 나온 점수 : 27
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86939460/143795566-fdff0538-bb3d-459b-a98c-08f69fc1e490.gif)
-:%s/sublime\|emacs/vim/g<CR>ZZ
   
+• 최고점 : 19
+  
+• 내가 나온 점수 : 27
+  
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86939460/143795566-fdff0538-bb3d-459b-a98c-08f69fc1e490.gif)
+ __* 해결 경로__
+  :%s/sublime\|emacs/vim/g<CR>ZZ
+  
+  __* 설명__
   :%s/sublime\|emacs/vim/g - sublim or emacs를 vim으로 바꾼다. 
   
-  %s/sublime\|emacs/vim/g
+    
+  
 3번 (vimgolf put ![Uploading ezgif.com-gif-maker (1).gif…]()
+  
 5f1063aa8361810006e73210)
 • 최고점 : 20
 • 내가 나온 점수 : 36
