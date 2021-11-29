@@ -2,10 +2,14 @@
 VimGolf_5개
 
 1번 (vimgolf put 5f0f5fbe280fbf000c233304)
-• 최고점 : 8
-• 내가 나온 점수 : 9
+
+* 최고점 : 8
+
+* 내가 나온 점수 : 9
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86939460/143795552-6680e11a-060d-4d94-a83e-10781cdcd459.gif)
-GWi"<kEnd>"<Esc>ZZ
+
+* 해결 경로GWi"<kEnd>"<Esc>ZZ
   G - 마지막 줄로 이동
   w - 단어 단위 앞으로 이동(단어 시작)해서 {로 이동
   i -  현재 위치에서 입력 모드 시작해서 " 입력
