@@ -1,7 +1,7 @@
 # VimGolf_5-
 VimGolf_5개
 
-1번 (vimgolf put 5f0f5fbe280fbf000c233304)
+## 1번 (vimgolf put 5f0f5fbe280fbf000c233304)
 
 * 최고점 : 8
 
@@ -9,14 +9,23 @@ VimGolf_5개
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86939460/143795552-6680e11a-060d-4d94-a83e-10781cdcd459.gif)
 
-* 해결 경로GWi"<kEnd>"<Esc>ZZ
+  __* 해결 경로__
+
+  GWi"<kEnd>"<Esc>ZZ
+  
+  __* 설명__
+  
   G - 마지막 줄로 이동
+  
   w - 단어 단위 앞으로 이동(단어 시작)해서 {로 이동
+  
   i -  현재 위치에서 입력 모드 시작해서 " 입력
+  
   End - 라인 끝으로 이동후 "입력
+  
   ZZ - 빠져나오기
   
-2번 (vimgolf put 603ba26a01b4d00009c10a49)
+## 2번 (vimgolf put 603ba26a01b4d00009c10a49)
 • 최고점 : 19
 • 내가 나온 점수 : 27
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86939460/143795566-fdff0538-bb3d-459b-a98c-08f69fc1e490.gif)
