@@ -48,10 +48,11 @@
   
 • 내가 나온 점수 : 36
   
-  __* 해결 경로__
-  
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86939460/143795571-0b231553-fcf1-4080-a90b-ec42d7571d03.gif)
-:4<CR>ywO// <Esc>paTODO<Esc>:6<CR>ywO// <Esc>paTODO<Esc>ZZ
+
+   __* 해결 경로__
+  
+  :4<CR>ywO// <Esc>paTODO<Esc>:6<CR>ywO// <Esc>paTODO<Esc>ZZ
   
   __* 설명__
   
@@ -78,6 +79,7 @@
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/86939460/143795583-862f1c3a-cbaa-41ab-8259-34fcf07a2284.gif)
 
   __* 해결 경로__
+  
 <Down>f1a<Down><BS>2<Down><BS>3<Down><BS>4<Esc><Down>f1a<Down><BS>2<Down><BS>3<Down><BS>4<Esc>:%s/y1/abs(y)<CR>fya4<Up><Left>3<Up><Left>2<Up><Left>1<Esc>fka<Down><BS>b<Down><BS>r<Down><BS>g<Esc>f1a<BS>4<Up><BS>3<Up><BS>2<Esc>ZZ<CR>fya4<Up><Left>3<Up><Left>2<Up><Left>1<Esc>fka<Down><BS>b<Down><BS>r<Down><BS>g<Esc>f1a<BS>4<Up><BS>3<Up><BS>2<Esc>ZZ
  
   __* 설명__
@@ -91,6 +93,8 @@
   4) 후에 fy로 ㅛ를 찾아 이동 하고 a로 현재 위치 다음 칸에서 입력 모드를 시작하여 y1, y2, y3, y4 로 수정.
   
   5) fk로 k로 이동 a를 눌러 k를 b, r, g로 수정 후 f1로 1를 찾아 이동 후 a로 다시 숫자 수정.
+   
+  6) esc, ZZ - 일반모드로 변환후 빠져나오기
   
 ## 5번 (vimgolf put 6013804df3308e0009368f1c)
 
@@ -106,11 +110,11 @@
   
   __* 설명__
   
-  :5 - 5번 라인으로 이동
-  yw - 현재 word를 끝까지 복사하여 student_id를 복사.
-  :10 - 10번 라인으로 이동
-  f " - f 명령어를 사용하여 현재 라인에 "가 있는지 검색해서 그 부분으로 이동
-  p - 현재위치 다음에 붙여넣기
-  name,age,score를 적어줌 (이렇게 그냥 적어주는 게 명령어 써서 하는 것보다 점수가 더 낮게 나오더라구요..)
-  esc, ZZ - 일반모드로 변환후 빠져나오기
+ 1) :5 - 5번 라인으로 이동
+ 2) yw - 현재 word를 끝까지 복사하여 student_id를 복사.
+ 3)  :10 - 10번 라인으로 이동
+ 4) f " - f 명령어를 사용하여 현재 라인에 "가 있는지 검색해서 그 부분으로 이동
+ 5) p - 현재위치 다음에 붙여넣기
+ 6) name,age,score를 적어줌 (이렇게 그냥 적어주는 게 명령어 써서 하는 것보다 점수가 더 낮게 나오더라구요..)
+ 7) esc, ZZ - 일반모드로 변환후 빠져나오기
   
