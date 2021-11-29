@@ -1,6 +1,6 @@
 # VimGolf_5-
 VimGolf_5개
-
+---
 ## 1번 (vimgolf put 5f0f5fbe280fbf000c233304)
 
 * 최고점 : 8
